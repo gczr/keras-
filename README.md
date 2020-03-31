@@ -1,11 +1,7 @@
 ### 准备工具
 
-Python2:
-
 - Flask==1.0.2
 - gevent==1.4.0
-
-Python3:
 
 - tensorflow==1.13.1
 - Keras==2.2.4
